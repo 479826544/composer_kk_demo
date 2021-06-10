@@ -1,5 +1,5 @@
 <?php
-namespace kk;
+namespace Tools;
 
 
 class Tools

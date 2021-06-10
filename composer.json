@@ -1,0 +1,25 @@
+{
+  "name": "kk/tools",
+  "description": "kk common tools",
+  "keywords": [
+    "tools",
+    "math"
+  ],
+  "type": "library",
+  "require": {
+    "php": ">=5.6"
+  },
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "KK",
+      "email": "479826544@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Tools\\": "src/"
+    }
+  }
+}
